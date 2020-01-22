@@ -8,11 +8,11 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-    <title>About Page</title>
+    <title>Home Page</title>
   </head>
   <body>
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  	<nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="{{ url('home') }}" style="font-family: cursive;">Ariorizki</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -33,7 +33,7 @@
 </nav>
 <br>
 <div class="container">
-    <h1>About Page</h1>
+    <h1>Home Page</h1>
     </div>
 
     <!-- Optional JavaScript -->
