@@ -11,30 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/index', 'PagesController@home');
+Route::get('/about', 'PagesController@about');
 
-Route::get('/belajar', function () {
-    echo "Belajar PHP. Tulisan ini ditampilkan dari routes";
-});
-
-Route::get('/belajar2', function () {
-    echo "Dua";
-});
-
-Route::get('/belajar3', function () {
-    echo "Tiga";
-});
-
-Route::get('/about', function () {
-    return view('about');
-});
-
-Route::get('/home', function () {
-    return view('home');
-});
-
-Route::get('/contact', function () {
-    return view('contact');
-});
+Route::get('/mahasiswa', 'MahasiswaController@index');
