@@ -6,9 +6,8 @@
 <div class="container">
     <h1><?php echo $nama ?></h1>
     <br>
-    <h4>Description</h4>
-    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod nam aliquam ipsam necessitatibus, dolorem alias debitis optio sapiente iusto reiciendis cupiditate, maiores perspiciatis iure ratione possimus ullam animi corrupti nostrum?</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo impedit, suscipit fugiat accusantium accusamus beatae cumque, tempore eaque et neque deleniti doloribus, iure harum fugit quibusdam qui a! Nostrum, neque!</p>
-    <h2></h2>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum laboriosam, ea voluptatibus hic ipsa id natus, mollitia voluptates iusto quidem laudantium ut, consequatur soluta minima odit tempora explicabo odio facilis!</p>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam non, dolores nisi cum nihil doloremque modi eaque molestias magnam dicta delectus quaerat natus porro dolorem laboriosam dolorum aperiam quos nesciunt.</p>
+    <br>
     </div>
 @endsection
